@@ -13,3 +13,10 @@ First Commit
 
 hello this is srividhya. I want to add this and commit and push to remote repository
 
+
+You have done second commit and added files to remote repository and final step will merging
+
+But add/commit this changes to master branch.
+
+
+
