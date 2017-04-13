@@ -13,3 +13,9 @@ First Commit
 
 hello this is srividhya. I want to add this and commit and push to remote repository
 
+Second Commit
+
+This is second commit to be done. I want to add new file Test.txt and Commit changes and push this file to central repository.
+Finally you can see the changes and a new branch in Local repository.
+
+
