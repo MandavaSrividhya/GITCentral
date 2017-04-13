@@ -19,3 +19,10 @@ This is second commit to be done. I want to add new file Test.txt and Commit cha
 Finally you can see the changes and a new branch in Local repository.
 
 
+Finally once you done pushing file to branch1 in remote repository merge the Test.txt to master branch to master. 
+
+if once we are done with this we are ready to use the github. 
+
+
+
+
