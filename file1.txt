@@ -1,0 +1,6 @@
+hello this is also new file created in branch1 and know we push this file to branch1 in remote repository.
+
+later we merge this file to master.
+
+Just do it.
+
