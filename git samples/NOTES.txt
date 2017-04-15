@@ -1,0 +1,133 @@
+@media print/screen/all condition1 condition2 condition3..
+{
+----css styles with sleectors
+}
+
+or
+
+@media only screen condition1 condition2 condition3..
+{
+--------css styles with sleectors
+}
+
+
+@media only print condition1 condition2 condition3..
+{
+--------css styles with sleectors
+}
+
+
+conditon-1()
+------------
+max-width:360px ->Galaxy s5
+
+
+max-width:375px ->Iphone6
+
+
+//iphone6->
+@media only screen and (max-width:375px)
+{
+----//css tsyles....
+}
+
+
+//Galaxy-S5->
+@media only screen and (max-width:360px)
+{
+----//css tsyles....
+}
+
+
+//Galaxy-S5->
+@media only screen and (max-width:360px)
+{
+----//css tsyles....
+}
+
+
+
+//Galaxy-S5->
+@media only screen and (max-width:360px)
+{
+----//css tsyles....
+}
+
+
+
+
+//Galaxy-S5->
+@media only screen and (max-width:360px)
+{
+----//css tsyles....
+}
+
+
+
+//Galaxy-S5->
+@media only screen and (max-width:360px)
+{
+----//css tsyles....
+}
+
+
+
+//Galaxy-S5->
+@media only screen and (max-width:360px)
+{
+----//css tsyles....
+}
+
+
+
+//Galaxy-S5->
+@media only screen and (max-width:360px)
+{
+----//css tsyles....
+}
+
+
+
+//Galaxy-S5->
+@media only screen and (max-width:360px)
+{
+----//css tsyles....
+}
+
+
+
+//Galaxy-S5->
+@media only screen and (max-width:360px)
+{
+----//css tsyles....
+}
+
+
+
+//for Mobile Devices
+@media only screen and (min-width:320px)  and (max-width:480px)
+{
+--------css styles with sleectors
+}
+
+
+//for Tablets Devices
+@media only screen and (min-width:481px)  and (max-width:768px)
+{
+--------css styles with sleectors
+}
+
+
+//for Laptops Devices
+@media only screen and (min-width:769px)  and (max-width:1024px)
+{
+--------css styles with sleectors
+}
+
+
+//for Desktops and large screen
+@media only screen and (min-width:1025px)  and (max-width:1600px)
+{
+--------css styles with sleectors
+}
+
